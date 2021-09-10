@@ -1,0 +1,18 @@
+[FATAL] 0 com.ringo.Test1 [main] 2021-09-10 11:26:37.213 com.ringo.Test1.test4(Test1.java:18) -严重错误
+[ERROR] 16 com.ringo.Test1 [main] 2021-09-10 11:26:37.229 com.ringo.Test1.test4(Test1.java:19) -错误信息
+[WARN] 16 com.ringo.Test1 [main] 2021-09-10 11:26:37.229 com.ringo.Test1.test4(Test1.java:20) -警告
+[INFO] 32 com.ringo.Test1 [main] 2021-09-10 11:26:37.245 com.ringo.Test1.test4(Test1.java:21) -系统运行信息
+[INFO] 32 com.ringo.Test1 [main] 2021-09-10 11:26:37.245 com.ringo.Test1.test4(Test1.java:24) -hello
+[INFO] 32 com.ringo.Test1 [main] 2021-09-10 11:26:37.245 com.ringo.Test1.test4(Test1.java:25) -yes
+[ERROR] 32 com.ringo.App [main] 2021-09-10 11:26:37.245 com.ringo.Test1.test4(Test1.java:27) -da pan zhi beng
+[FATAL] 0 com.ringo.Test1 [main] 2021-09-10 11:27:36.008 com.ringo.Test1.test4(Test1.java:18) -严重错误
+[ERROR] 62 com.ringo.Test1 [main] 2021-09-10 11:27:36.070 com.ringo.Test1.test4(Test1.java:19) -错误信息
+[WARN] 64 com.ringo.Test1 [main] 2021-09-10 11:27:36.072 com.ringo.Test1.test4(Test1.java:20) -警告
+[INFO] 84 com.ringo.Test1 [main] 2021-09-10 11:27:36.092 com.ringo.Test1.test4(Test1.java:21) -系统运行信息
+[INFO] 85 com.ringo.Test1 [main] 2021-09-10 11:27:36.093 com.ringo.Test1.test4(Test1.java:24) -hello
+[INFO] 87 com.ringo.Test1 [main] 2021-09-10 11:27:36.095 com.ringo.Test1.test4(Test1.java:25) -yes
+[ERROR] 94 com.ringo.App [main] 2021-09-10 11:27:36.102 com.ringo.Test1.test4(Test1.java:27) -da pan zhi beng
+[ERROR] 0 com.ringo.App [main] 2021-09-10 11:28:20.687 com.ringo.Test1.test4(Test1.java:27) -da pan zhi beng
+[ERROR] 0 com.ringo.App [main] 2021-09-10 11:35:09.849 com.ringo.Test1.test4(Test1.java:27) -da pan zhi beng
+[ERROR] 0 com.ringo.App [main] 2021-09-10 11:37:28.042 com.ringo.Test1.test4(Test1.java:27) -da pan zhi beng
+[ERROR] 0 com.ringo.App [main] 2021-09-10 11:38:33.434 com.ringo.Test1.test4(Test1.java:27) -da pan zhi beng
